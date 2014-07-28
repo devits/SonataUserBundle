@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/user-bundle",
+    "name": "devits/user-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SonataUserBundle",
     "keywords": ["user", "sonata", "google authenticator"],
@@ -19,7 +19,6 @@
     "require": {
         "sonata-project/easy-extends-bundle": "dev-master",
 
-        "friendsofsymfony/rest-bundle": "dev-master",
         "jms/serializer-bundle": "dev-master",
         "nelmio/api-doc-bundle": "dev-master"
     },
