@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "sonata-project/easy-extends-bundle": "~dev-master",
+        "sonata-project/easy-extends-bundle": "dev-master",
 
         "friendsofsymfony/rest-bundle": "dev-master",
         "jms/serializer-bundle": "dev-master",
